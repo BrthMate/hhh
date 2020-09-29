@@ -2,4 +2,8 @@ A nyúl a fűben.
 A nyúl türelmetlen.
 a nyuszi egy nagyon aranyos állat.
 A nyuszi pici.
+<<<<<<< HEAD
 A nyúl már nagyon unalmas téma.
+=======
+A krokodil egy agresszív állat.
+>>>>>>> 83704728f1e2bfee5ce74bf912c259958f21f44a
