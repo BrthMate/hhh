@@ -1,3 +1,8 @@
 A nyúl a fűben.
 A nyúl türelmetlen.
+<<<<<<< HEAD
 a nyuszi egy nagyon aranyos állat.
+=======
+Már 11:39.
+Még 41 perc van hátra.
+>>>>>>> f72f807c0586d8d1a7682fefa7dc18939e71da3b
