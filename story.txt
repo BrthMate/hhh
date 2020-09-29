@@ -6,3 +6,4 @@ A krokodil egy agresszív állat.
 A tigris agresszív.
 A majom majomkodik.
 A kecske add tejet?
+A hal nem tud beszélni!
