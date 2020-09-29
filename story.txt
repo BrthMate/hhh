@@ -11,13 +11,9 @@ A tigris agresszív.
 A majom majomkodik.
 A kecske add tejet?
 <<<<<<< HEAD
-<<<<<<< HEAD
 A hal nem tud beszélni!
 =======
 A nyúl aggodik ,hogy megpocsékolják
 >>>>>>> fc199de2a0c6375d00d028efa7ce24aca9f0e034
 A hal nem tud beszélni!
-=======
-A nyúl aggodik ,hogy megpocsékolják.
-11:50 van még 30 perc.
->>>>>>> cf3f018ae8df4b22b857f863616d4cb7b6a62b49
+Az őzike egy aranyos állat.
