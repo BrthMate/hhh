@@ -7,8 +7,14 @@ A nyuszi pici.
 A nyúl már nagyon unalmas téma.
 =======
 A krokodil egy agresszív állat.
+<<<<<<< HEAD
 >>>>>>> 83704728f1e2bfee5ce74bf912c259958f21f44a
 =======
 A krokodil egy agresszív állat.
 A tigris agresszív.
 >>>>>>> 729eeb6ebc647b52a22f2bb870bfd607dfd31c70
+=======
+A tigris agresszív.
+A majom majomkodik.
+A kecske add tejet?
+>>>>>>> e2e713de0d6425ef993146e31b9ebc3991e35d17
